@@ -4,7 +4,7 @@ Steel, R.G.D. (1961). Some rank sum multiple comparison tests. Biometrics 17, 53
 
 R code source coming from http://aoki2.si.gunma-u.ac.jp/R/Steel-Dwass.html
 
-## Installing Steel.Dwass.test in R
+## Installing Steel.Dwass.test package in R
 
 You can install directly from GitHub if you have the devtools package installed:
 
