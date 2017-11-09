@@ -21,3 +21,6 @@ x <- c(6.9, 7.5, 8.5, 8.4, 8.1, 8.7, 8.9, 8.2, 7.8, 7.3, 6.8,9.6, 9.4, 9.5, 8.5,
 group <- rep(1:4, c(11, 10, 10, 11))
 Steel.Dwass(x, group)
 }
+\author{
+Robert George Douglas Steel,Shigenobu Aoki,Weiping Mei
+}
