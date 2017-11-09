@@ -1,6 +1,4 @@
----
-title: Steel-Dwass test v1.0.0
----
+# Steel-Dwass test v1.0.0
 
 Steel, R.G.D. (1961). Some rank sum multiple comparison tests. Biometrics 17, 539-552.
 
