@@ -1,0 +1,13 @@
+Package: Steel.Dwass.test
+Type: Package
+Title: Steel-Dwass pairwise ranking test
+Version: 1.0.0
+Date: 2017-11-08
+Authors: Robert George Douglas Steel,Shigenobu Aoki,Weiping Mei
+Maintainer: Weiping Mei <meiweipingg@gmail.com>
+Description: As a post-hoc test after Kruskal-Wallis test, the Steel-Dwaas test performs the nonparametric multiple comparisons whilst controlling the overall experiment-wise error rate (it is the non-parametric equivalent to the Tukey All-Pairs method)
+Depends: R (>= 3.3.0)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
