@@ -21,6 +21,11 @@ Then upload your dataset including x and group data, for example
 and run 
 
     Steel.Dwass(x,group)
+	
+To see examples on how to use Steel.Dwass.test in R software, you can run the following R code if you have the Steel.Dwass.test package installed:
+    library(Steel.Dwass.test)
+	?Steel.Dwass
+
 
 ## Acknowledgments
 
