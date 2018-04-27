@@ -21,6 +21,7 @@ Get the development version from github:
 	install.packages("devtools")
 	devtools::install_github("PhDMeiwp/Steel.Dwass.test@master", force = TRUE)
 
+## Examples
 
 Then upload your dataset including x and group data, for example
 
