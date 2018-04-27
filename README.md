@@ -4,13 +4,23 @@ Steel, R.G.D. (1961). Some rank sum multiple comparison tests. Biometrics 17, 53
 
 R code source coming from http://aoki2.si.gunma-u.ac.jp/R/Steel-Dwass.html
 
-## Installing Steel.Dwass.test package in R
+## Package Creators
 
-You can install directly from GitHub if you have the devtools package installed:
+<img src="https://github.com/PhDMeiwp/PhDMeiwp.github.io/blob/hexo/Common_images/Mei_Logo.JPG" width="70"/>
 
-    library(devtools)   # or install.packages("devtools")
-	install_github("PhDMeiwp/Steel.Dwass.test@master", force = TRUE)
-	library(Steel.Dwass.test)
+Weiping MEI https://PhDMeiwp.github.io
+
+
+Graduate School of Fisheries and Environmental Sciences, Nagasaki University
+
+
+## Installation
+
+Get the development version from github:
+	
+	install.packages("devtools")
+	devtools::install_github("PhDMeiwp/Steel.Dwass.test@master", force = TRUE)
+
 
 Then upload your dataset including x and group data, for example
 
@@ -20,6 +30,7 @@ Then upload your dataset including x and group data, for example
 
 and run 
 
+	library(Steel.Dwass.test)
     Steel.Dwass(x,group)
 	
 To see examples on how to use Steel.Dwass.test in R software, you can run the following R code if you have the Steel.Dwass.test package installed:
